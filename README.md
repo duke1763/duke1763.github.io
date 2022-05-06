@@ -1,3 +1,4 @@
 # duke1763.github.io
 
-idk what to put here.
+credits: 
+       template: solid state from html5up.net
